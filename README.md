@@ -61,6 +61,8 @@ liking, making it completely customizable. This is also a *self-hosted bot* – 
 to host and maintain your own instance. You can turn Red into an admin bot, music bot, trivia bot,
 new best friend or all of these together!  
 
+Please note this version has been customised for the use of the AEGIS community, and differs from the official V3 support. Please support the hardwork that has gone into this project by visiting Red's patreon.
+
 [Installation](#installation) is easy, and you do **NOT** need to know anything about coding! Aside
 from installation and updating, every part of the bot can be controlled from within Discord.
 
