@@ -2,18 +2,18 @@
   <br>
   <a href="https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop"><img src="https://imgur.com/pY1WUFX.png" alt="Red - Discord Bot"></a>
   <br>
-  Red Discord Bot
+  AEGIS Discord Bot V3
   <br>
 </h1>
 
 <h4 align="center">Music, Moderation, Trivia, Stream Alerts and Fully Modular.</h4>
 
 <p align="center">
-  <a href="https://discord.gg/red">
-    <img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield" alt="Discord Server">
+  <a href="https://discord.gg/smvhW9t">
+    <img src="https://discordapp.com/api/guilds/301811233827454986/widget.png?style=shield" alt="Discord Server">
   </a>
   <a href="https://www.patreon.com/Red_Devs">
-    <img src="https://img.shields.io/badge/Support-Red!-yellow.svg" alt="Support Red on Patreon!">
+    <img src="https://img.shields.io/badge/Support-Red!-yellow.svg" alt="Support AEGIS on Patreon!">
   </a>
   <a href="https://www.python.org/downloads/">
     <img src="https://img.shields.io/badge/Made%20With-Python%203.7-blue.svg?style=for-the-badge" alt="Made with Python 3.7">
@@ -109,18 +109,19 @@ plugins directly from Discord! A few examples are:
 - Anilist
 - And much, much more!
 
-Feel free to take a [peek](https://cogboard.red/t/approved-repositories/210) at a list of
+Feel free to take a [peek](https://github.com/BJPickles/AEGIS-Cogs) at a list of
 available 3rd party cogs!
 
 # Join the community!
 
-**Red** is in continuous development, and it’s supported by an active community which produces new
-content (cogs/plugins) for everyone to enjoy. New features are constantly added. If you can’t
-[find](https://cogboard.red/t/approved-repositories/210) the cog you’re looking for,
-consult our [guide](https://red-discordbot.readthedocs.io/en/v3-develop/guide_cog_creation.html) on
-building your own cogs!
+**AEGIS** is in continuous development, and it’s supported by an active community which produces new
+content (cogs/plugins) for everyone to enjoy. New features are constantly added. 
+Our community loves to play games together, why don't you join us!
+If you can’t [find](https://github.com/BJPickles/AEGIS-Cogs) one of our cogs that you’re looking for,
+consult Red's [guide](https://red-discordbot.readthedocs.io/en/v3-develop/guide_cog_creation.html) on
+building your own!
 
-Join us on our [Official Discord Server](https://discord.gg/red)!
+Join us on our [Official Discord Server](https://discord.gg/smvhW9t)!
 
 # License
 
@@ -131,3 +132,45 @@ Red is named after the main character of "Transistor", a video game by
 
 Artwork created by [Sinlaire](https://sinlaire.deviantart.com/) on Deviant Art for the Red Discord
 Bot Project.
+
+
+# Deployment
+
+Use the following to get our released AEGIS cogs:
+
+```
+[p]cog repo add AEGIS-Cogs https://github.com/BJPickles/AEGIS-Cogs
+```
+```
+Example:
+
+[p]cog install AEGIS-Cogs modmail
+```
+
+# Built With
+
+* [Python](Link) - The framework used
+* [Discord RED](Link) - Dependency Management
+* [GitHub](Link) - Used to generate host
+
+# Contributing
+
+Please read [CONTRIBUTING.md](Link) for details on our code of conduct, and the process for submitting pull requests to us.
+
+# Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+# Authors
+
+* **BJPickles** - *Initial work* - [BJPickles](https://github.com/BJPickles)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+# Acknowledgments
+
+* Hat tip to anyone whose code was used.
+* There are a lot of amazing authors here.
+* It's important to note this is a huge collaboration of authors who have spent hundreds of hours pouring their time into this project.
+* AEGIS is humbled that we are able to use this code and extend it to our own aims.
+* Big thank you to everyone for your hard work.
